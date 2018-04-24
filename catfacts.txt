@@ -133,4 +133,5 @@
 "Most cat litters contain four to six kittens",
 "A Japanese cat figurine called Maneki-Neko is believed to bring good luck",
 "One of Muhammad's companions was nicknamed Abu Hurairah, or Father of the Kitten, because he loved cats",
-"Elvis Presley’s Chinese name is Mao Wong, or Cat King"
+"Elvis Presley’s Chinese name is Mao Wong, or Cat King is here",
+"Khelan added new fact"
